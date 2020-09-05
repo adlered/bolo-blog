@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我们忙碌且漫长的一生，有多久是为自己而活？](https://www.stackoverflow.wiki/blog/articles/2020/09/01/1598975839751.html)
 * [说说《后浪》](https://www.stackoverflow.wiki/blog/articles/2020/05/05/1588692897995.html)
 * [离线使用 Google Fonts：让你的网站更精致 | goofoffline 神器，一键下载生成离线字体库！](https://www.stackoverflow.wiki/blog/articles/2020/04/23/1587654872933.html)
 * [🎨 适用于 Solo / Bolo 的清新高级主题 —— Sakura | 移植自 WordPress 主题](https://www.stackoverflow.wiki/blog/articles/2020/03/28/1585384897191.html)
@@ -29,7 +30,6 @@
 * [大白话之Java面向接口编程：最“正经”的中文实例讲解，看不懂来打我！](https://www.stackoverflow.wiki/blog/articles/2019/06/03/1559543071037.html)
 * [大白话之Java反射-初学最迷的概念：能干啥？咋用？](https://www.stackoverflow.wiki/blog/articles/2019/06/03/1559495713155.html)
 * [Spring: java.lang.NoSuchMethodError: clearCache | ClassNotFoundException | Error during artifact deployment 思路及解决办法](https://www.stackoverflow.wiki/blog/articles/2019/05/04/1556958108376.html)
-* [将Tomcat、MySQL从Linux迁移到Windows的心路历程（干货）：令人恐惧的字符编码](https://www.stackoverflow.wiki/blog/articles/2019/05/03/1556879549795.html)
 
 
 
