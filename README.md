@@ -1,35 +1,35 @@
-<p align="center"><img alt="技术博客" src="https://www.stackoverflow.wiki/blog/images/favicon.png"></p><h2 align="center">
-技术博客
+<p align="center"><img alt="贼拉正经的技术博客" src="https://www.stackoverflow.wiki/blog/images/favicon.png"></p><h2 align="center">
+贼拉正经的技术博客
 </h2>
 
 <h4 align="center">A</h4>
-<p align="center"><a title="技术博客" target="_blank" href="https://github.com/adlered/bolo-blog"><img src="https://img.shields.io/github/last-commit/adlered/bolo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="贼拉正经的技术博客" target="_blank" href="https://github.com/adlered/bolo-blog"><img src="https://img.shields.io/github/last-commit/adlered/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/adlered/bolo-blog"><img src="https://img.shields.io/github/repo-size/adlered/bolo-blog.svg?style=flat-square"></a>
 <a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.3 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/adlered/bolo-blog.svg"></a></p>
 
 ### 最新
 
-* [2020年个人总结](http://114.246.231.210/2020.html)
-* [leetcode-数组系列1](http://114.246.231.210/leetcode_array1.html)
-* [MySQL分页查询优化](http://114.246.231.210/articles/2020/10/21/1603213579436.html)
-* [Go爬虫初体验](http://114.246.231.210/articles/2020/07/09/1594287406684.html)
-* [广州一年记](http://114.246.231.210/articles/2020/06/22/1592755563685.html)
-* [Golang小技巧——不定时更新](http://114.246.231.210/articles/2020/06/19/1592560522403.html)
-* [记一次蹭车事件](http://114.246.231.210/articles/2020/06/05/1591351351176.html)
-* [高性能消息队列NSQ---GO--demo](http://114.246.231.210/articles/2020/05/21/1590046687574.html)
-* [2019年个人总结](http://114.246.231.210/2019.html)
-* [散文集《我在人间凑数的日子》](http://114.246.231.210/articles/2019/12/17/1576553542302.html)
-* [2019年11月6日晨记](http://114.246.231.210/articles/2019/11/06/1572999448123.html)
-* [《许三观卖血记》阅读笔记](http://114.246.231.210/articles/2019/10/31/1572508975114.html)
-* [日刷leetcode--简单版（六）](http://114.246.231.210/leetcode6.html)
-* [Navicat Premium for Mac 破解教程](http://114.246.231.210/articles/2019/10/24/1571890488789.html)
-* [迟来的9月总结](http://114.246.231.210/articles/2019/10/13/1570960015377.html)
-* [GO实现一个单链表](http://114.246.231.210/articles/2019/09/26/1569488898577.html)
-* [Go面试总结](http://114.246.231.210/articles/2019/09/25/1569402355322.html)
-* [一别两宽，各生欢喜](http://114.246.231.210/articles/2019/09/21/1569077915744.html)
-* [闲言碎语](http://114.246.231.210/articles/2019/09/19/1568902818001.html)
-* [日刷leetcode--简单版（五）](http://114.246.231.210/leetcode5.html)
+* [无题](http://114.246.231.210/articles/2020/12/09/1607515558918.html)
+* [年轻人的第一辆京牌电动车](http://114.246.231.210/articles/2020/09/07/1599452229158.html)
+* [我们忙碌且漫长的一生，有多久是为自己而活？](http://114.246.231.210/articles/2020/09/01/1598975839751.html)
+* [说说《后浪》](http://114.246.231.210/articles/2020/05/05/1588692897995.html)
+* [离线使用 Google Fonts：让你的网站更精致 | goofoffline 神器，一键下载生成离线字体库！](http://114.246.231.210/articles/2020/04/23/1587654872933.html)
+* [🎨 适用于 Solo / Bolo 的清新高级主题 —— Sakura | 移植自 WordPress 主题](http://114.246.231.210/articles/2020/03/28/1585384897191.html)
+* [大白话 | Java初学指♂男：“说说初学的误区与死结”（ 壹 | 反射与Field ）](http://114.246.231.210/articles/2019/10/14/1571061168019.html)
+* [Java 困扰三周の问题：使用byte[]或skip()方法读取字节流Stream文件尾部多/少/缺字节解决方法](http://114.246.231.210/articles/2019/09/18/1568775827764.html)
+* [大白话之Java Stream流：将类数组流化，便捷批量修改，通俗讲解！](http://114.246.231.210/articles/2019/08/12/1565616272019.html)
+* [大白话之Java级联调用：一个类，一条语句，同时调用好几个方法，串成一串](http://114.246.231.210/articles/2019/07/18/1563421403678.html)
+* [大白话之Java多线程join方法：开局一张图，试学一分钟，你就费和我一样，理解介个方法](http://114.246.231.210/articles/2019/07/10/1562746878327.html)
+* [大白话之AutoClosable接口 | try-with-resources：JDK1.7的新特性，提高重复回收效率](http://114.246.231.210/articles/2019/07/02/1562047491184.html)
+* [随笔 | Tomcat：续-从Linux迁移到Windows编码问题彻底解决](http://114.246.231.210/articles/2019/06/27/1561621252210.html)
+* [随笔 | 奇淫技巧 | Java：记return和短路运算符的妙用](http://114.246.231.210/articles/2019/06/21/1561085339073.html)
+* [大白话之必会Java Atomic | 线程一点也不安全（二）：Atomic的ABA问题会导致什么情况？如何解决？](http://114.246.231.210/articles/2019/06/21/1561078704802.html)
+* [大白话之必会Java Atomic | 线程一点也不安全（一）：比自增和synchronized更快速、靠谱的原子操作（调用C语言）](http://114.246.231.210/articles/2019/06/11/1560256379324.html)
+* [刨根问底 | 大白话：在使用注解后，框架是怎么知道你哪个方法使用了注解的？用@RequestMapping注解举例详解！](http://114.246.231.210/articles/2019/06/10/1560148614406.html)
+* [大白话之fail-fast | fail-safe：为什么会有这个机制？它有什么作用？](http://114.246.231.210/articles/2019/06/08/1559980283121.html)
+* [大白话 | 课堂实践：使用Iterator对数组进行遍历](http://114.246.231.210/articles/2019/06/06/1559802305989.html)
+* [大白话之Java面向接口编程：最“正经”的中文实例讲解，看不懂来打我！](http://114.246.231.210/articles/2019/06/03/1559543071037.html)
 
 
 
