@@ -5,7 +5,7 @@
 <h4 align="center">A</h4>
 <p align="center"><a title="1" target="_blank" href="https://github.com/adlered/bolo-blog"><img src="https://img.shields.io/github/last-commit/adlered/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/adlered/bolo-blog"><img src="https://img.shields.io/github/repo-size/adlered/bolo-blog.svg?style=flat-square"></a>
-<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.3 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.4 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/adlered/bolo-blog.svg"></a></p>
 
 ### 最新
