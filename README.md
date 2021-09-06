@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [为程序员、设计师打造的摸鱼社区：摸鱼派！](https://null:-1/blog/articles/2021/09/05/1630829809761.html)
 * [我在 GitHub 上的开源项目](https://null:-1/blog/github)
 * [为IDEA/Git配置GPG密钥，点亮GitHub Verified Commit标识](https://null:-1/blog/articles/2021/03/06/1615025147784.html)
 * [无题](https://null:-1/blog/articles/2020/12/09/1607515558918.html)
@@ -29,7 +30,6 @@
 * [大白话之必会Java Atomic | 线程一点也不安全（二）：Atomic的ABA问题会导致什么情况？如何解决？](https://null:-1/blog/articles/2019/06/21/1561078704802.html)
 * [大白话之必会Java Atomic | 线程一点也不安全（一）：比自增和synchronized更快速、靠谱的原子操作（调用C语言）](https://null:-1/blog/articles/2019/06/11/1560256379324.html)
 * [刨根问底 | 大白话：在使用注解后，框架是怎么知道你哪个方法使用了注解的？用@RequestMapping注解举例详解！](https://null:-1/blog/articles/2019/06/10/1560148614406.html)
-* [大白话之fail-fast | fail-safe：为什么会有这个机制？它有什么作用？](https://null:-1/blog/articles/2019/06/08/1559980283121.html)
 
 
 
